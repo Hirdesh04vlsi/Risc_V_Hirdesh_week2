@@ -40,7 +40,6 @@ SoCs dominate almost all modern electronic systems. They are used in:
 
 **Examples of commercial SoCs:** Apple A-series, Qualcomm Snapdragon, Samsung Exynos, Google Tensor.
 
-<img width="1024" height="475" alt="image" src="https://github.com/user-attachments/assets/19d0dc19-9192-40ab-8901-f0a6f7a81236" />
 
 
 ---
