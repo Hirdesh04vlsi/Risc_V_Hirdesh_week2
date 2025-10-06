@@ -1,6 +1,6 @@
 ---
 
-# 🧩 Week 2 Task – BabySoC Fundamentals & Functional Modelling
+# 🧩 Week 2 – Part 2: Pre Synthesis Simulation
 
 ## 🎯 Objective
 
