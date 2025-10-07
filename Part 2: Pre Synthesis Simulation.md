@@ -103,8 +103,7 @@ gtkwave output/pre_synth_sim/pre_synth_sim.vcd
 ---
 
 
-<img width="1600" height="900" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/e0e31109-0cc1-459d-b868-931ad786584f" />
-
+<img width="1004" height="700" alt="image" src="https://github.com/user-attachments/assets/51f3b788-66f2-42be-9fb3-ca0266661821" />
 
 
 ## 🧩 Step 5 – Analyze Waveform Behavior
